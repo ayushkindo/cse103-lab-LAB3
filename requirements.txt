@@ -1,0 +1,2 @@
+# No third-party Python dependencies are required for CSE103 LAB3.
+# Standard library modules used: json, os, subprocess, sys
